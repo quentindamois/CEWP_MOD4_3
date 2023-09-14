@@ -1,4 +1,4 @@
-package DuplicateElimination;
+package src.DuplicateElimination;
 
 import javax.swing.*;
 import java.awt.*;

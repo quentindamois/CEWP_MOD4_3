@@ -1,8 +1,7 @@
-package DuplicateElimination;
+package src.DuplicateElimination;
 
 import java.util.HashSet;
 import java.util.Scanner;
-import java.util.TreeSet;
 
 public class Main {
     public static void main(String[] arg) {
@@ -17,5 +16,6 @@ public class Main {
         }
         System.out.println("Enter a name to see if it is in the set of name :");
         String name = input.nextLine();
+        /*456*/
     }
 }
